@@ -1,2 +1,2 @@
 # RS-Net
-RS-Net is a cloud detection algorithm for satellite imagery. Code will be publicly available when the paper is published.
+The Remote Sensing Network (RS-Net) is a cloud detection algorithm for satellite imagery. The code in this repository was used to to produce all results for the paper titled "A cloud detection algorithm for satellite imagery based on deep learning". A production level implementation is currently under development, which will form the basis for future research in deep learning for remote sensing purposes. This includes research on semi-supervised learning, multi-temporal classification, and interpretability/explainability. 

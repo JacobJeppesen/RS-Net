@@ -57,7 +57,7 @@ grpcio==1.12.0
 h5py==2.8.0
 heapdict==1.0.0
 html2text==2018.1.9
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 image==1.5.16
 imageio==2.2.0

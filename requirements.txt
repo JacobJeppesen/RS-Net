@@ -88,7 +88,7 @@ Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.0.1
 mccabe==0.6.1
-mistune==0.7.4
+mistune==0.8.1
 mpmath==0.19
 msgpack-python==0.4.8
 multipledispatch==0.4.9
